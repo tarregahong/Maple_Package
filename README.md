@@ -1,4 +1,4 @@
-# MAPLE Package
+# MAPLE Q-series and other Ralated Packages
 Maple package files from [Frank G. Garvan](http://www.qseries.org/fgarvan/research.html).
 
 
